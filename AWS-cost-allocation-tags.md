@@ -5,15 +5,16 @@
 
 ## 📚 Table of Contents
 
-- [Introduction](#-introduction)
-- [What are AWS Cost Allocation Tags?](#-what-are-aws-cost-allocation-tags)
-- [Why Use Cost Allocation Tags?](#-why-use-cost-allocation-tags)
-- [Workflow Diagram](#-workflow-diagram)
-- [Advantages](#-advantages)
-- [Best Practices](#-best-practices)
-- [Conclusion](#-conclusion)
-- [Contact Information](#-contact-information)
-- [References](#-references)
+1. [Introduction](#1-introduction)  
+2. [What are AWS Cost Allocation Tags?](#2-what-are-aws-cost-allocation-tags)  
+3. [Why Use Cost Allocation Tags?](#3-why-use-cost-allocation-tags)  
+4. [Workflow Diagram](#4-workflow-diagram)  
+5. [Advantages](#5-advantages)  
+6. [Best Practices](#6-best-practices)  
+7. [Conclusion](#7-conclusion)  
+8. [FAQs](#8-faqs)  
+9. [Contact Information](#9-contact-information)  
+10. [References](#10-references)
 
 
 ## Introduction
@@ -130,9 +131,3 @@ AWS allows up to 50 tags per resource, including both user-defined and AWS-gener
 | AWS Tagging Best Practices | [Link](https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html) |
 | AWS Billing and Cost Management User Guide | [Link](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html) |
 | AWS Cost Explorer | [Link](https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-cost-explorer.html) |
-
-
-- [AWS Official Documentation – Cost Allocation Tags](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html)
-- [AWS Tagging Best Practices](https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html)
-- [AWS Billing and Cost Management User Guide](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html)
-- [AWS Cost Explorer](https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-cost-explorer.html)
