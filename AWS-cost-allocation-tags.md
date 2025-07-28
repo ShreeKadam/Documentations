@@ -3,7 +3,7 @@
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. [Introduction](#1-introduction)  
 2. [What are AWS Cost Allocation Tags?](#2-what-are-aws-cost-allocation-tags)  
@@ -17,13 +17,13 @@
 10. [References](#10-references)
 
 
-## Introduction
+## 1. Introduction
 
 AWS Cost Allocation Tags help you track and manage costs in a granular way. By attaching metadata to AWS resources, tags enable accurate cost tracking by project, department, environment, and more. They are essential for cost transparency, chargebacks, and budgeting.
 
 ---
 
-## What are AWS Cost Allocation Tags?
+## 2. What are AWS Cost Allocation Tags?
 
 Cost Allocation Tags are **key-value pairs** assigned to AWS resources. AWS uses these tags to **organize usage costs** across different dimensions (e.g., teams, workloads).
 
@@ -33,7 +33,7 @@ There are **two types**:
 
 ---
 
-## Why Use Cost Allocation Tags?
+## 3. Why Use Cost Allocation Tags?
 
 | Purpose                      | Description                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
@@ -45,7 +45,7 @@ There are **two types**:
 
 ---
 
-## Workflow Diagram
+## 4. Workflow Diagram
 
 ```mermaid
 graph TD
@@ -58,7 +58,7 @@ graph TD
 
 ---
 
-## Advantages
+## 5. Advantages
 
 | Advantage                   | Explanation                                                                 |
 |----------------------------|-----------------------------------------------------------------------------|
@@ -70,7 +70,7 @@ graph TD
 
 ---
 
-##  Best Practices
+## 6.  Best Practices
 
 | Best Practice                        | Description                                                                 |
 |-------------------------------------|-----------------------------------------------------------------------------|
@@ -83,7 +83,7 @@ graph TD
 
 ---
 
-## Conclusion
+## 7. Conclusion
 
 Cost Allocation Tags are **vital tools** for managing and optimizing your AWS costs. When implemented correctly, they enable **full visibility, accountability, and control** over cloud spending. Integrating them into your infrastructure strategy ensures a cost-effective and transparent AWS environment.
 
@@ -92,7 +92,7 @@ Cost Allocation Tags are **vital tools** for managing and optimizing your AWS co
 
 ---
 
-## Frequently Asked Questions (FAQs)
+## 8. Frequently Asked Questions (FAQs)
 
 ### 1. **Do I need to pay to use Cost Allocation Tags?**
 No, AWS does not charge for tagging or viewing cost allocation tags.
@@ -110,7 +110,7 @@ Yes, tags can be edited anytime through the AWS Console, CLI, or SDKs.
 AWS allows up to 50 tags per resource, including both user-defined and AWS-generated tags.
 
 
-## Contact Information
+## 9. Contact Information
 
 | Contact Type | Details                             |
 |--------------|-------------------------------------|
@@ -123,7 +123,7 @@ AWS allows up to 50 tags per resource, including both user-defined and AWS-gener
 
 ---
 
-## References
+## 10. References
 
 | Resource | Link |
 |----------|------|
