@@ -1,5 +1,5 @@
 
-![Blog-Featured-Image_AWS-Cost-Allocation-Tags (1)](https://github.com/user-attachments/assets/d37ada3d-26a8-447f-ac38-62172e44e44e)
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="150"/>
 
 
 
