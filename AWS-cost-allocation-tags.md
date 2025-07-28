@@ -1,4 +1,9 @@
 
+![Blog-Featured-Image_AWS-Cost-Allocation-Tags (1)](https://github.com/user-attachments/assets/d37ada3d-26a8-447f-ac38-62172e44e44e)
+
+
+
+
 # AWS Cost Allocation Tags Documentation
 
 ---
