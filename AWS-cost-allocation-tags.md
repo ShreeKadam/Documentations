@@ -116,7 +116,7 @@ AWS allows up to 50 tags per resource, including both user-defined and AWS-gener
 
 | Name| Email Address      | GitHub | URL |
 |-----|--------------------------|-------------|---------|
-| Ishaan | ishaan.aggarwal.snaatak@mygurukulam.co|  Ishaan-Dev1  |   https://github.com/Ishaan-Dev1  |
+| Shree | shreekadam2222htb@gmail.com|  ShreeKadam  |  https://github.com/ShreeKadam   |
 
 
 
