@@ -114,11 +114,9 @@ AWS allows up to 50 tags per resource, including both user-defined and AWS-gener
 
 ## 9. Contact Information
 
-| Contact Type | Details                             |
-|--------------|-------------------------------------|
-| Maintainer   | DevOps & Cloud Team                 |
-| Email        | devops-team@example.com             |
-| GitHub Repo  | https://github.com/example/aws-cost-tags-doc |
+| Name| Email Address      | GitHub | URL |
+|-----|--------------------------|-------------|---------|
+| Ishaan | ishaan.aggarwal.snaatak@mygurukulam.co|  Ishaan-Dev1  |   https://github.com/Ishaan-Dev1  |
 
 
 
