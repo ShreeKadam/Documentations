@@ -16,6 +16,7 @@
 9. [Contact Information](#9-contact-information)  
 10. [References](#10-references)
 
+---
 
 ## 1. Introduction
 
@@ -87,7 +88,7 @@ graph TD
 
 Cost Allocation Tags are **vital tools** for managing and optimizing your AWS costs. When implemented correctly, they enable **full visibility, accountability, and control** over cloud spending. Integrating them into your infrastructure strategy ensures a cost-effective and transparent AWS environment.
 
----
+
 
 
 ---
@@ -109,6 +110,7 @@ Yes, tags can be edited anytime through the AWS Console, CLI, or SDKs.
 ### 5. **What is the maximum number of tags per resource?**
 AWS allows up to 50 tags per resource, including both user-defined and AWS-generated tags.
 
+---
 
 ## 9. Contact Information
 
@@ -118,7 +120,6 @@ AWS allows up to 50 tags per resource, including both user-defined and AWS-gener
 | Email        | devops-team@example.com             |
 | GitHub Repo  | https://github.com/example/aws-cost-tags-doc |
 
----
 
 
 ---
