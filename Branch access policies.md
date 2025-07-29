@@ -115,11 +115,9 @@ Branch access policies are essential for maintaining a secure, high-quality, and
 
 ## 10. Contact Information
 
-For questions or assistance configuring branch policies:
-
-- **Email:** devops-team@example.com  
-- **GitHub:** [github.com/org/repo](https://github.com/org/repo)  
-- **Slack:** `#dev-sec-gitops`
+| Name| Email Address      | GitHub | URL |
+|-----|--------------------------|-------------|---------|
+| Shree | shreekadam2222htb@gmail.com|  ShreeKadam  |  https://github.com/ShreeKadam   |
 
 ---
 
