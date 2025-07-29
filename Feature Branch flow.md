@@ -80,10 +80,9 @@ However, to prevent issues like merge conflicts and branch divergence, it’s im
 ---
 ## 7. Contact Information
 
-| Name           | Role             | Email                                             |
-| -------------- | ---------------- | ------------------------------------------------- |
-| DevOps Team    | GitOps Engineers | [devops@example.com](mailto:devops@example.com)   |
-| Git Maintainer | Team Lead        | [gitlead@example.com](mailto:gitlead@example.com) |
+| Name| Email Address      | GitHub | URL |
+|-----|--------------------------|-------------|---------|
+| Shree | shreekadam2222htb@gmail.com|  ShreeKadam  |  https://github.com/ShreeKadam   |
 
 ---
 ## 8. References
