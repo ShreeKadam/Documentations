@@ -112,11 +112,9 @@ Yes, you can create SCPs that only allow specific actions like `Describe*` or `L
 
 ## 9. Contact Information
 
-| Contact Type | Details                             |
-|--------------|-------------------------------------|
-| Maintainer   | DevOps & Security Team              |
-| Email        | security-team@example.com           |
-| GitHub Repo  | https://github.com/example/aws-scp-docs |
+| Name| Email Address      | GitHub | URL |
+|-----|--------------------------|-------------|---------|
+| Shree | shreekadam2222htb@gmail.com|  ShreeKadam  |  https://github.com/ShreeKadam   |
 
 ---
 
