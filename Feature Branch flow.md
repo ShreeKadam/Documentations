@@ -86,7 +86,7 @@ However, to prevent issues like merge conflicts and branch divergence, it’s im
 | Git Maintainer | Team Lead        | [gitlead@example.com](mailto:gitlead@example.com) |
 
 ---
-## 8. Refrences
+## 8. References
 
 | Resource Name   | Link                                                                                                           |
 | --------------- | -------------------------------------------------------------------------------------------------------------- |
